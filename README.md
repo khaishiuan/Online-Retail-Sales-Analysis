@@ -211,14 +211,19 @@ Based on the analysis, the following recommendations are proposed:
 The notebook includes visualizations such as:
 
 - Monthly Revenue Trend
-- Top Products by Revenue
-- Top Products by Quantity Sold
-- Product Performance Matrix
-- Customer Revenue vs Number of Orders
-- Top Customers by Revenue
-- Top Frequent Buyers
+<img width="1189" height="490" alt="Monthly Revenue chart" src="https://github.com/user-attachments/assets/236999d6-341b-4c46-ba43-1261a20576ae" />
 
-*(Example screenshots can be added to the `figures/` folder and displayed here.)*
+- Top Products by Revenue
+<img width="1189" height="590" alt="Top Revenue Products" src="https://github.com/user-attachments/assets/49138e2b-e367-41e6-9e16-b03437688de8" />
+
+- Top Products by Quantity Sold
+<img width="1189" height="590" alt="Top 10 Quantity Sold" src="https://github.com/user-attachments/assets/bee7256a-d404-4c27-aef4-417ef85c56c8" />
+
+- Top Customers by Revenue
+<img width="989" height="590" alt="Top 10 Customers by Revenue" src="https://github.com/user-attachments/assets/3d1523b8-16fe-416f-abdd-79c742201f6b" />
+
+- Top Frequent Buyers
+<img width="1189" height="590" alt="Top 10 Frequent Buyers" src="https://github.com/user-attachments/assets/9d94173d-0516-4ae4-b10e-1eb672ca3578" />
 
 ---
 
